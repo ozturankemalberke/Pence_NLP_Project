@@ -1,0 +1,31 @@
+# Ortam degiskenleri ve gizli anahtarlar (API ANAHTARI ASLA YUKLENMEMELI)
+.env
+*.env
+
+# Python sanal ortami
+.venv/
+venv/
+env/
+
+# Python onbellek
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Not: Veri (.csv), model (.pkl) ve grafik (.png) dosyalari kasitli olarak
+# depoya dahil edilmistir. Bunlari haric tutmak isterseniz asagidaki satirlari acin:
+# *.csv
+# *.pkl
+# *.png

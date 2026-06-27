@@ -1,0 +1,11 @@
+anthropic
+datasets
+imbalanced-learn
+joblib
+matplotlib
+numpy
+pandas
+python-dotenv
+scikit-learn
+seaborn
+streamlit
