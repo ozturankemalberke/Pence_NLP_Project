@@ -1,11 +1,9 @@
-# 🦅 Pençe — Türkçe Toksik Dil Tespiti ve Suç Kategorisi Sınıflandırması
+Pençe — Türkçe Toksik Dil Tespiti ve Suç Kategorisi Sınıflandırması
 
 **Pençe**, Türkçe sosyal medya metinlerindeki saldırgan/toksik dili tespit eden ve bunları
 Türk Ceza Kanunu (TCK) bağlamındaki suç kategorilerine ayıran bir Doğal Dil İşleme (NLP)
 projesidir. Proje, aynı problemi **iki farklı yaklaşımla** çözen iki "motor" içerir ve bunları
 bilimsel olarak karşılaştırır.
-
-> Bu proje bir **Doğal Dil İşleme dersi** kapsamında geliştirilmiştir.
 
 ---
 
