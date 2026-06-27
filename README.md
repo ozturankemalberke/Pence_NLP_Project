@@ -122,3 +122,9 @@ Eğitilmiş modeller `.pkl` dosyaları olarak depoda mevcuttur.
 
 scikit-learn · imbalanced-learn · Anthropic Claude · Streamlit · pandas · NumPy ·
 matplotlib · seaborn · HuggingFace `datasets`
+
+---
+
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
